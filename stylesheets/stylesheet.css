@@ -56,4 +56,8 @@ body {
     margin-top: 5%; /* 50px/1000px */
   }
 
+  .social {
+    top: 40em;
+  }
+
 }
